@@ -19,3 +19,7 @@ web page to save sensor values into a database and data is requested using GET m
 - Then will be REGISTER on the database direct 
 
 <img width="1440" alt="‏لقطة الشاشة ١٤٤٤-٠١-١١ في ٧ ٢٢ ٣١ ص" src="https://user-images.githubusercontent.com/108236976/183566195-0f02089f-5cae-4f33-8159-8c888f43e206.png">
+
+# Resources
+https://www.w3schools.com/php/php_superglobals_get.asp
+https://www.youtube.com/watch?v=vBvdP_hERjA
