@@ -8,17 +8,9 @@ $password = "";
 
 $conn = new PDO("mysql:host=$host;dbname=Sensor_values", $username, $password);
 
-if(isset($_GET['save']))
-
-{
-
- //print ($_GET);
-
+if(isset($_GET['save'])){
  $sql = "INSERT INTO Sensor_values(SensorValues) VALUES('".addslashes($_GET['SensorValues'])."')";
-
- $conn->query($sql);
-
-}
+ $conn->query($sql);}
 
 ?>
 
