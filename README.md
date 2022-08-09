@@ -22,4 +22,5 @@ web page to save sensor values into a database and data is requested using GET m
 
 # Resources
 https://www.w3schools.com/php/php_superglobals_get.asp
+
 https://www.youtube.com/watch?v=vBvdP_hERjA
